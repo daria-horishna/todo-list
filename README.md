@@ -19,6 +19,18 @@
 
 ## Запуск
 
+Клонувати репозиторій:
+
+```bash
+git clone https://github.com/daria-horishna/todo-list.git
+```
+
+Перейти в папку проєкту:
+
+```bash
+cd todo-list
+```
+
 Встановити залежності:
 
 ```bash
